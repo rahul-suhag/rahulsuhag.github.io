@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##UNC Chapel Hill
+## UNC Chapel Hill
 
 ### Principles of Marketing (Undergrad course) – Fall 2021
 
@@ -21,7 +21,7 @@ author_profile: true
 
 ---
 
-## Teaching Assistant
+### Teaching Assistant
 
 **Team-building Facilitator, MBA801: Leading and Managing**  
 (Spring 2021 – Present)

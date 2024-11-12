@@ -29,7 +29,7 @@ Mandatory CSR Law in India"** - Arunachalam S, Manchiraju H, Suhag R, and Kopall
 
 ## Work in Progress
 
-**“A Dynamic Model of Live Streamers’ Strategic Choices and their Associated Consequences”** - with Grewal R
+**“A Dynamic Model of Live Streamers’ Strategic Choices and their Associated Consequences”** - with R Grewal
   - Status: Data Analysis stage
 
 **“Boosting the Growth of Early-Stage Ventures through Market-Driven Interventions in the Czech Republic”** with S Anderson, F Campos, MP Lopez, and C Spina

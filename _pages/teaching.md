@@ -24,7 +24,7 @@ author_profile: true
 ### Teaching Assistant
 
 **Team-building Facilitator, MBA801: Leading and Managing**  
-(Spring 2021 – Present)
+(Spring 2021 – Spring 2024)
 
 **Overall Rating:** 4.90/5.00 (Cumulative)
 

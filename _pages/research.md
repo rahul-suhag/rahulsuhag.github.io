@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-##Working Papers
+## Working Papers
 
 **“Rebranding and the Behaviors of Content Creators: A Study of Twitch
 Prime Becoming Prime Gaming”**- Suhag R and Grewal R (preparing for submission)

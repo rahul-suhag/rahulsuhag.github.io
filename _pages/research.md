@@ -25,7 +25,7 @@ and Study of Cable News Media Personalities”** - Rahul Suhag, Rajdeep Grewal a
 **"Social Heart and Business
 Sense: Translating Corporate Social Responsibility (CSR) into Gross Margin Premium per
 Mandatory CSR Law in India"** - S Arunachalam, Hariom Manchiraju, Rahul Suhag, and Praveen K Kopalle 
-  - Status: Under 2nd round review at Production and Operations Management
+  - Status: Minor Revision at Production and Operations Management
 
 ## Work in Progress
 

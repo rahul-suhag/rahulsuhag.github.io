@@ -1,4 +1,4 @@
-/* ==========================================================================
+==========================================================================
    SIDEBAR
    ========================================================================== */
 
@@ -79,7 +79,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: auto;
+  width: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -88,9 +90,8 @@
   }
 
   img {
-    width: 150px; /* Adjust the width */
-    height: 250px; /* Increase height to elongate */
-    border-radius: 15%; /* Slightly rounded corners */
+    max-width: 175px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
